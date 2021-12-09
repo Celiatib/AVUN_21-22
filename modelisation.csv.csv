@@ -1,7 +1,14 @@
-
-physique,acteurs ,concept label,concept uri,sujet,predicat,objet
-ordinateurs,utilisateurs web,fake news,,c2,c3,p2
-sites,lecteurs assidus,réseaux sociaux,,c3,c3,p3
-vidéos,professionnels de linformation,deep learning,,c4,,
-,,L'IA,,a3,,
-,,Données personnels ,,,,
+physiques,acteurs,concept label,concept uri,sujet ,predicat,objet
+Ordinateur,internautes ,fake news,,a2,c10,p2
+Portable,lecteurs assidus,détection,,a4,c3,p3
+,professionnels de l'information,fausse information,,a2,c11,p2
+,intelligence artificielle,désinformation,,a3,c10,p2
+,réseaux sociaux,données ,https://openscience.adaptcentre.ie/ontologies/GDPRtEXT/deliverables/docs/ontology#PersonalData,a3,c11,p2
+,,fact cheking,,a5,c6,p3
+,,deep learning,https://saidfathalla.github.io/Science-knowledge-graph-ontologies/doc/ModSci_doc/index-en.html#MachineLearning,a5,c7,p3
+,,algorithme,https://sparontologies.github.io/fabio/current/fabio.html,a5,c9,p3
+,,partage,https://saidfathalla.github.io/Science-knowledge-graph-ontologies/doc/ModSci_doc/index-en.html#MachineLearning,a5,c8,p3
+,,commentaire,,a6,c12,p3
+,,Facebook,https://schema.org/SocialMediaPosting,a6,c13,p3
+,,Twitter,,,,
+,,hoax,,,,
